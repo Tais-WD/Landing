@@ -119,7 +119,7 @@ const Footer = () => {
       <Wrapper>
         <Item>
           <LogoWrapper>
-            <Hyperlink href="https://getdrinks.ru/">
+            <Hyperlink href="#">
               <IconImage
                 src="/img/icons/logo-grey.png"
                 alt="логотип Getdrinks"
@@ -127,13 +127,13 @@ const Footer = () => {
             </Hyperlink>
           </LogoWrapper>
           <LinkWrapper>
-            <Hyperlink href="https://getdrinks.ru/financial">
+            <Hyperlink href="#">
               Реквизиты
             </Hyperlink>
-            <Hyperlink href="https://getdrinks.ru/llegal">
+            <Hyperlink href="#">
               Политика в отношении обработки персональных данных{" "}
             </Hyperlink>
-            <Hyperlink href="https://getdrinks.ru/useragreement">
+            <Hyperlink href="#">
               Правила онлайн платформы Getdrinks.ru
             </Hyperlink>
           </LinkWrapper>
@@ -142,22 +142,22 @@ const Footer = () => {
           <ContactsWrapper>
             <Title>Свяжитесь с нами:</Title>
             <ContactInfo>
-              <Hyperlink href="mailto:hello@getdrinks.ru">
-                hello@getdrinks.ru
+              <Hyperlink href="mailto:example@mail.ru">
+              example@mail.ru
               </Hyperlink>
-              <Hyperlink href="tel:+79269303000">+7 (926) 930-30-00</Hyperlink>
+              <Hyperlink href="tel:+79269303000">+0 (000) 930-30-00</Hyperlink>
             </ContactInfo>
           </ContactsWrapper>
           <ContactsWrapper>
             <Title>Оставайтесь на связи ;)</Title>
             <IconWrapper>
-              <Hyperlink href="https://www.instagram.com/getdrinks.ru/">
+              <Hyperlink href="#">
                 <IconImage
                   src="/img/icons/instagram.svg"
                   alt="иконка facebook"
                 />
               </Hyperlink>
-              <Hyperlink href="https://www.facebook.com/getdrinks.ru/">
+              <Hyperlink href="#">
                 <IconImage
                   src="/img/icons/facebook.svg"
                   alt="иконка facebook"

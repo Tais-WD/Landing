@@ -133,7 +133,7 @@ const HeaderComponent = () => {
     <Header>
       <Container>
         <LogoWrapper>
-          <a href="https://getdrinks.ru/">
+          <a href="#">
             <Logo src="/img/icons/logo-black.svg" alt="logo" />
           </a>
         </LogoWrapper>
@@ -155,10 +155,10 @@ const HeaderComponent = () => {
               </NavigationLink>
             </Item>
           </HorizontalNavigation>
-          <LinkBasic href="tel:+7-926-930-30-00">
+          <LinkBasic href="tel:+0-000-930-30-00">
             <NumberWrapper>
               <PhoneIcon src="/img/icons/phone.svg" alt="phone icon" />
-              <Number>+7 (926)930-30-00</Number>
+              <Number>+0 (000)930-30-00</Number>
             </NumberWrapper>
           </LinkBasic>
         </Navigation>
